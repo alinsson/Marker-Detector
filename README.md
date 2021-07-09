@@ -7,11 +7,13 @@ Initial tests of detecting markers for surface creation, was used in an eye trac
 ![Screenshot 2021-07-09 151810](https://user-images.githubusercontent.com/6897439/125121532-71ab4f00-e0ca-11eb-83a2-38a41f448645.jpg)
 
 https://www.youtube.com/watch?v=XeFNhc72EcM
+
 https://www.youtube.com/watch?v=hMQ4LiFybcw
 
 
-Eye tracker used (STM32F4 or STM32F7 W OV7670):
+# Eye tracker used (STM32F4 or STM32F7 W OV7670):
 https://www.youtube.com/watch?v=8Bec5uFGfLQ
+
 https://www.youtube.com/watch?v=FqT7sgdsXUc
 
 ![Untitled1](https://user-images.githubusercontent.com/6897439/125121550-78d25d00-e0ca-11eb-9e20-b07182441645.png)
